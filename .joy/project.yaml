@@ -1,0 +1,42 @@
+name: book2md
+acronym: BKMD
+language: de
+privacy: anonymous
+members:
+  ai:claude@joy:
+    capabilities:
+      conceive: {}
+      plan: {}
+      design: {}
+      implement: {}
+      test: {}
+      review: {}
+      document: {}
+      create: {}
+      assign: {}
+    adapter: claude
+    attestation:
+      attester: m-dew3hsdqmg
+      signed_fields:
+        email: ai:claude@joy
+        capabilities:
+          conceive: {}
+          plan: {}
+          design: {}
+          implement: {}
+          test: {}
+          review: {}
+          document: {}
+          create: {}
+          assign: {}
+      signed_at: 2026-11-14T18:55:52.394566Z
+      signature: 80ea07abf282b9adccf5eebe8bf93a11123fbfac295c5aaca7192ba836a0544c0d1d07d0ca796826094bc720b27e375d749d030f73d835835efcdda05a80ef07
+  m-dew3hsdqmg:
+    capabilities: all
+    verify_key: 73808bc33e7cbcd272a285bf6c78aaa4ef5b8fca967f9705a7c0a39b2360ef12
+    kdf_nonce: abfeab5af88a21697aa1e9200f01c97edfcea36acfd1a26f43b9bd2a42a980b7
+    seed_wrap_passphrase: e0f3311743c1d8a96b0155e6b8bb8749563b79e3e071e32ddcab9e8307ecacf5300209a940dddc1769035d9d7551cd5d4b43556be40741c3f127a1f3
+    seed_wrap_recovery: e38334e32f395d562d21c72e2da19a9fec12ae7cac9c0592839a4b5d0b15379597df76c9e016bb01592413a1d7adfe0420d8d9567188a46809ecafd8
+    email_match: 8f5e1a52bdd7b011177fc8493f9f1bf3d450dfdf5904b01f4aead762b15e0d38
+    members_wrap: 73808bc33e7cbcd272a285bf6c78aaa4ef5b8fca967f9705a7c0a39b2360ef127217124f008d2bf81cee8f61cc485beed51f17a444483fa9fe2ce4ebfba905a0035c616209637ca196e5c3f6b3f744ba4a29da5372e199a8d8922dcc
+created: 2026-11-14T18:50:14.657905Z
